@@ -1,0 +1,3 @@
+https://drive.google.com/file/d/1KUQGo8dL9O1S-w6qk20aTD_t79D7WMW6/view?usp=sharing
+
+Download shape_predictor_68_face_landmarks.dat from this link then place in MorseCodeGenerator folder.
